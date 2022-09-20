@@ -109,6 +109,10 @@ body{
 }
 
 @media screen and (max-width: 700px) {
+  .title img{
+    width: 450px;
+    height: auto;
+  }
   .cards{
     height: 350px;
     width: 350px;
@@ -123,6 +127,11 @@ body{
 
 
 @media screen and (max-width: 530px) {
+  .title img{
+    width: 400px;
+    height: auto;
+  }
+
   .cards{
     height: 300px;
     width: 300px;
